@@ -10,7 +10,7 @@ I am an Electronics and Communication Engineering undergraduate at **NIT Trichy*
 
 - **Digital Design & EDA:** Verilog, FPGA programming, Vivado, Logic Design
 - **Hardware & PCB Design:** KiCad (Multi-layer/4-layer layout), Power Planes, EMI Control, Fusion 360 (Mechanical CAD)
-- **Embedded & Firmware:** C/C++, STM32 (F405), UART/SPI/I2C, MAVLink, 8051 Assembly
+- **Embedded & Firmware:** C/C++, STM32, Arduino, UART/SPI/I2C, 8051 Assembly
 - **Control Systems & Robotics:** PID Tuning, IMU Sensor Fusion, Motor Control (PWM/DShot), Robot Operating Systems/Simulation (Proteus)
 - **Languages & Frameworks:** C, C++, Python, Verilog, MATLAB
 
