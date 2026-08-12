@@ -18,22 +18,22 @@ I am an Electronics and Communication Engineering undergraduate at **NIT Trichy*
 
 ### 🚀 Highlighted Projects
 
-#### 🛸 [Custom UAV Flight Controller](https://github.com/Adityawadpalliwar) *(In Progress)*
+#### 🛸 [Custom UAV Flight Controller] *(In Progress)*
 - Designed an **STM32F405**-based flight controller integrating IMU, GPS, barometer, and current sensing for attitude estimation.
 - Laid out a **4-layer PCB in KiCad** optimizing power/ground planes and routing low-noise sensor lines.
 - Developed real-time firmware featuring PID stabilization, PWM/DShot motor control, and MAVLink telemetry protocol.
 
-#### 🤖 [Line Following & Maze-Solving Robot](https://github.com/Adityawadpalliwar)
+#### 🤖 [Line Following & Maze-Solving Robot](https://github.com/Adityawadpalliwar/meshmerize)
 - Built an autonomous maze-solving robot implementing the **LSRB algorithm**.
 - Integrated sensor-fusion and real-time decision-making logic paired with a PID control system for high-speed tracking.
 
-#### ⚖️ [eYantra Krishi Balancer (Self-Balancing Robot)](https://github.com/Adityawadpalliwar)
-- Developed a two-wheeled self-balancing robot for the eYantra 2025 competition.
-- Modelled mechanical structural parts in **Fusion 360** and optimized a closed-loop parallel PID system using IMU and wheel encoder feedback to maintain stability under external disturbances.
-
-#### 👾 [Flappy Bird in 8051 Assembly](https://github.com/Adityawadpalliwar)
+#### 👾 [Flappy Bird in 8051 Assembly](https://github.com/Adityawadpalliwar/Flappy_bird)
 - A bare-metal implementation of Flappy Bird written completely in **8051 Assembly**.
 - Leveraged non-blocking timing loops to handle 8x8 LED matrix multiplexing alongside collision physics and asynchronous user input.
+
+#### ⚖️ [eYantra Krishi Balancer (Self-Balancing Robot)](https://github.com/Adityawadpalliwar/Balancing_BOT)
+- Developed a two-wheeled self-balancing robot for the eYantra 2025 competition.
+- Modelled mechanical structural parts in **Fusion 360** and optimized a closed-loop parallel PID system using IMU and wheel encoder feedback to maintain stability under external disturbances.
 
 ---
 
