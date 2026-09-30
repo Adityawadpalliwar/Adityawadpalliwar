@@ -19,9 +19,9 @@ I am an Electronics and Communication Engineering undergraduate at **NIT Trichy*
 ### 🚀 Highlighted Projects
 
 #### 🛸 [Custom UAV Flight Controller] *(In Progress)*
-- Designed an **STM32F405**-based flight controller integrating IMU, GPS, barometer, and current sensing for attitude estimation.
+- Designing an **STM32F405**-based flight controller integrating IMU, GPS, barometer, and current sensing for attitude estimation.
 - Laid out a **4-layer PCB in KiCad** optimizing power/ground planes and routing low-noise sensor lines.
-- Developed real-time firmware featuring PID stabilization, PWM/DShot motor control, and MAVLink telemetry protocol.
+- Developing real-time firmware featuring PID stabilization, PWM/DShot motor control, and MAVLink telemetry protocol.
 
 #### 🤖 [Line Following & Maze-Solving Robot](https://github.com/Adityawadpalliwar/meshmerize)
 - Built an autonomous maze-solving robot implementing the **LSRB algorithm**.
