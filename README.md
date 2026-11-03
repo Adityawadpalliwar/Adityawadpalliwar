@@ -3,6 +3,7 @@
 I am an Electronics and Communication Engineering undergraduate at **NIT Trichy** and a Robotics Engineer at the **SPIDER R&D Club**. I specialize in bridging the gap between physical hardware and intelligent control systems—designing multi-layer PCBs, writing tight real-time firmware, and implementing closed-loop control algorithms.
 
 [🌐 Check out my Portfolio Website](https://adityawadpalliwar.github.io/)
+(https://share.gemini.google/cpMwk0Ar2lqY)
 
 ---
 
